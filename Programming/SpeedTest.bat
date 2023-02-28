@@ -1,0 +1,1 @@
+C:\Programming\AvrDude\avrdude.exe -c usbasp -p t85 -v -B 10MHz
